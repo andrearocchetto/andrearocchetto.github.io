@@ -1,10 +1,9 @@
-body { margin: 60px auto; width: 50%; }
+body { margin: 60px auto; width: 80%; }
 
 @media only screen and (min-width: 481px) {
   body {
-    padding-top: 24px;
-    padding-right: 24px;
-    padding-left: 24px;
+    margin: 60px auto;
+    width: 50%;
   }
 }
 
