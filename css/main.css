@@ -8,7 +8,7 @@ body { margin: 24px auto; width: 80%; }
 }
 
 
-a { text-decoration: none; color: #0066cc; }
+a { text-decoration: none; color: #0030; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.1em; line-height: 1.4em; color: #333; text-align: justify;
